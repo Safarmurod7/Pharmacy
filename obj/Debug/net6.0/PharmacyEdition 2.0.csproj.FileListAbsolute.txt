@@ -1,0 +1,15 @@
+C:\Bootcamp\C#\PharmacyEdition 2.0\obj\Debug\net6.0\PharmacyEdition 2.0.csproj.AssemblyReference.cache
+C:\Bootcamp\C#\PharmacyEdition 2.0\obj\Debug\net6.0\PharmacyEdition 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp\C#\PharmacyEdition 2.0\obj\Debug\net6.0\PharmacyEdition 2.0.AssemblyInfoInputs.cache
+C:\Bootcamp\C#\PharmacyEdition 2.0\obj\Debug\net6.0\PharmacyEdition 2.0.AssemblyInfo.cs
+C:\Bootcamp\C#\PharmacyEdition 2.0\obj\Debug\net6.0\PharmacyEdition 2.0.csproj.CoreCompileInputs.cache
+C:\Bootcamp\C#\PharmacyEdition 2.0\bin\Debug\net6.0\PharmacyEdition 2.0.exe
+C:\Bootcamp\C#\PharmacyEdition 2.0\bin\Debug\net6.0\PharmacyEdition 2.0.deps.json
+C:\Bootcamp\C#\PharmacyEdition 2.0\bin\Debug\net6.0\PharmacyEdition 2.0.runtimeconfig.json
+C:\Bootcamp\C#\PharmacyEdition 2.0\bin\Debug\net6.0\PharmacyEdition 2.0.dll
+C:\Bootcamp\C#\PharmacyEdition 2.0\bin\Debug\net6.0\PharmacyEdition 2.0.pdb
+C:\Bootcamp\C#\PharmacyEdition 2.0\obj\Debug\net6.0\PharmacyEdition 2.0.dll
+C:\Bootcamp\C#\PharmacyEdition 2.0\obj\Debug\net6.0\refint\PharmacyEdition 2.0.dll
+C:\Bootcamp\C#\PharmacyEdition 2.0\obj\Debug\net6.0\PharmacyEdition 2.0.pdb
+C:\Bootcamp\C#\PharmacyEdition 2.0\obj\Debug\net6.0\PharmacyEdition 2.0.genruntimeconfig.cache
+C:\Bootcamp\C#\PharmacyEdition 2.0\obj\Debug\net6.0\ref\PharmacyEdition 2.0.dll
